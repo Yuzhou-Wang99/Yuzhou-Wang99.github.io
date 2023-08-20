@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral student in the Algorithms, Combinatorics, and Optimization (ACO) program at Georgia Tech’s School of Mathematics. My research interests are in Combinatorics, Probability and Algorithm. I am fortunate to be advised by [Will Perkings](http://willperkins.org/).
+I am a doctoral student in the Algorithms, Combinatorics, and Optimization (ACO) program at Georgia Tech’s School of Mathematics. My research interests are in Combinatorics, Probability and Algorithm. I am fortunate to be advised by [Will Perkins](http://willperkins.org/).
 
-Нельзя быть математиком, не будучи в то же время и поэтом в душе. -- Софья Ковалевская
+Here is my [CV](/files/CV.pdf)
+Нельзя быть математиком, не будучи в то же время и поэтом в душе. 
+                                            -- Софья Ковалевская
                                                                 
 
 # Selected Papers
