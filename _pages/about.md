@@ -12,9 +12,9 @@ I am a doctoral student in the Algorithms, Combinatorics, and Optimization (ACO)
 
 Here is my [CV](/files/CV.pdf)
 
-My Favorite Math Quote: by Софья Ковалевская
-
-Нельзя быть математиком, не будучи в то же время и поэтом в душе. 
+My Favorite Math Quote:
+Нельзя быть математиком, не будучи в то же время и поэтом в душе.
+                                                  --Софья Ковалевская
                                                                 
 
 # Selected Papers
