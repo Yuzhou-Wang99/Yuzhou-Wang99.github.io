@@ -21,4 +21,4 @@ My Favorite Math Quote:
 
 See my publication page for a full list.
 
-[On the hardness of finding balanced independent sets in random bipartite graphs](https://arxiv.org/abs/2307.13921) Preprint, 2023, (With Will Perkins).
+[On the hardness of finding balanced independent sets in random bipartite graphs](https://arxiv.org/abs/2307.13921) SODA 2024, (With Will Perkins).
