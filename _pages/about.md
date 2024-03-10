@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hello there 👋 你好 👋 Добрий день"
+title: "👋 你好 👋 Hallo 👋 Добрий день 👋 Bonjour"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
